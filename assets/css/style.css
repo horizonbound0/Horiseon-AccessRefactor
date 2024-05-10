@@ -125,8 +125,9 @@ section {
     background-color: #2589bd;
 }
 
+/* consolidated repeated CSS blocks */
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
