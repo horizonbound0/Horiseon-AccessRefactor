@@ -1,5 +1,4 @@
-/* Universal selector */
-
+/* 
 @media screen and (aspect-ratio: 16/9) {
     .header nav ul li {
         display: inline-block;
@@ -7,6 +6,8 @@
         font-size: 8px;
     }
 }
+
+Universal selector */
 
 * {
     box-sizing: border-box;
@@ -38,6 +39,7 @@ body {
 /* Changed header div to nav */
 
 .header nav {
+    display: flex;
     padding-top: 15px;
     margin-right: 20px;
     float: right;
