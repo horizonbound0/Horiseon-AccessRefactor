@@ -41,7 +41,7 @@ body {
     list-style-type: none;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (aspect-ratio: 16/9) {
     .header nav ul li {
         display: inline-block;
         margin-left: 3px;
