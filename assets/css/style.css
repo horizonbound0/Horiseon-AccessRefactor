@@ -41,7 +41,7 @@ body {
     list-style-type: none;
 }
 
-@media screen and (min-width: 360px) {
+@media screen and (max-width: 360px) {
     .header nav ul li {
         display: inline-block;
         margin-left: 3px;
