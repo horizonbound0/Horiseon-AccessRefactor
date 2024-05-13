@@ -1,16 +1,4 @@
 
-@media screen and (max-width: 768px) {
-    .header {
-        display: flex;
-    }
-    .header h1 {
-        font-size: 18px;
-    }
-    .header nav {
-        font-size: 10px;
-    }
-}
-
 /* Universal selector */
 
 * {
@@ -54,8 +42,6 @@ body {
 .header nav ul {
     list-style-type: none;
 }
-
-
 
 .header nav ul li {
     display: inline-block;
