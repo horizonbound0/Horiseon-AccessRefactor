@@ -1,9 +1,7 @@
 
 @media screen and (max-width: 768px) {
-    .header nav ul li {
-        display: inline-block;
-        margin-left: 3px;
-        font-size: 8px;
+    .header nav {
+        display: flex;
     }
 }
 
