@@ -2,7 +2,9 @@
 
 ## Description
 
-Horiseon reached out to me for a job to refactor their webpage so it's more accessible. Making their website more accessible is going to open their business up for customers with disabilities. 
+Horiseon reached out to me for a job to refactor their webpage so it's more accessible. Making their website more accessible is going to open their business up for customers with disabilities.
+
+![A screenshot of my work on the Module 1 Challenge](<finished site screenshot.PNG>)
 
 ## Installation
 
