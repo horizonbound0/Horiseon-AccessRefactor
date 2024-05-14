@@ -157,3 +157,13 @@ section {
 }
 
 /* There was a CSS block making the font bigger in the footer, and it had the wrong heading element, so I deleted it. */
+
+/* Adding a media query */
+@media screen and (max-width: 928px) {
+    .header h1 {
+        font-size: 24px;
+    }
+    .header nav {
+        font-size: 10px;
+    }
+}
