@@ -4,6 +4,8 @@
 
 Horiseon reached out to me for a job to refactor their webpage so it's more accessible. Making their website more accessible is going to open their business up for customers with disabilities.
 
+Link to Horiseon's reworked page: [Link to Horiseon](https://horizonbound0.github.io/Horiseon-Accessibility-Refactor-KW/)
+
 ![A screenshot of my work on the Module 1 Challenge](<finished site screenshot.PNG>)
 
 ## Installation
