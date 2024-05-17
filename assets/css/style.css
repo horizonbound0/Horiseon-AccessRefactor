@@ -31,7 +31,7 @@ body {
 /* Changed header div to nav */
 
 .header nav {
-    display: flex;
+    
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,6 +40,7 @@ body {
 }
 
 .header nav ul {
+    display: flex;
     list-style-type: none;
 }
 
@@ -162,8 +163,10 @@ section {
 @media screen and (max-width: 928px) {
     .header h1 {
         font-size: 24px;
+        flex-wrap: wrap;
     }
-    .header nav {
+    .header nav ul {
         font-size: 10px;
+        flex-wrap: wrap;
     }
 }
